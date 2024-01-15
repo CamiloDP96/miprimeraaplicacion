@@ -1,0 +1,11 @@
+.bigbox{
+    display: grid;
+    justify-items: center;
+}
+h3{
+    display: flex;
+    justify-items: center;
+}
+p{
+    justify-content: center;
+}
